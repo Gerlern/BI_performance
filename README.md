@@ -4,7 +4,7 @@ Assess the performance of the chain's sales outlets. The dataset contains data o
 
 
 
-[Complete Jupyter Notebook - with graphs]()
+[Complete Jupyter Notebook - with graphs](https://nbviewer.org/github/Gerlern/BI_performance/blob/main/Final.ipynb)
 
 [Tableau Dashboard](https://tabsoft.co/3Sd1juO)  
 
